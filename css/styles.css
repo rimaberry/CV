@@ -1,0 +1,23 @@
+/********************************************TAG SELECTORS*****************************************************************/
+body{
+  background-color: #ecfbfc;
+}
+hr{
+  border-color: #c5c5c5;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+h1,h3,h5 {
+  color:#235952;
+  font: italic small-caps bold none cursive;
+  font-style:italic;
+  font-variant:small-caps;
+  font-weight:bold;
+  font-family:cursive;
+}
+/********************************************CLASS SELECTORS*****************************************************************/
+/* NOTE: before class name add a point and class name is added akso after tag word*/
+/********************************************ID SELECTORS*****************************************************************/
+/* NOTE: begore Id name add # symbol*/
