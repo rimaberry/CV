@@ -2,6 +2,9 @@
 body{
   background-color: #ecfbfc;
 }
+a{
+decoration:none;
+}
 hr{
   border-color: #c5c5c5;
   border-style: none;
