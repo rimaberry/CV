@@ -11,9 +11,8 @@ hr{
 }
 h1,h3,h5 {
   color:#235952;
-  font:normal small-caps bold none cursive;
- 
-}
+  font-variant:small-caps;
+  font-weight:bold;}
 /********************************************CLASS SELECTORS*****************************************************************/
 /* NOTE: before class name add a point and class name is added akso after tag word*/
 /********************************************ID SELECTORS*****************************************************************/
